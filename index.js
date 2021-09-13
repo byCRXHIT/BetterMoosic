@@ -1,8 +1,9 @@
 const aoijs = require("aoi.js")
+//const config = require('./config.json')
 
 const bot = new aoijs.Bot({
-    token: "TOKEN", 
-    prefix: "PREFIX"
+    token: "ODg3MDM5MDI3Njg4MTI4NTg1.YT-VeA.IGjWOjGxxp2xWV8Oug80lJASqkE", 
+    prefix: "*"
 })
 
 bot.status({
