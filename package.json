@@ -13,6 +13,8 @@
     "license": "ISC",
     "dependencies": {
         "aoi.js": "^4.4.4",
-        "opusscript": "^0.0.8"
+        "ffmpeg-static": "^4.4.0",
+        "opusscript": "^0.0.8",
+        "ytdl-core": "^4.9.1"
     }
 }
