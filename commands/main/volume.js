@@ -9,5 +9,5 @@ module.exports = [{
 	Set volume to $message[1]%.
 	$volume[$message]
 	$endif
-	$argsCheck[1;Usage: m!volume <number>]`
+	$argsCheck[1;Usage: *volume <number>]`
 }]
