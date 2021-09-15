@@ -12,7 +12,7 @@ $else
     Lenght: **$songInfo[duration] Minuten**
     Publisher: **$songInfo[publisher]**]
     $footer[Bot made by: byCRXHIT & ItzN3on & ItzN3on]
-    $color[GREEN]
+    $color[BLUE]
     $thumbnail[$songInfo[thumbnail]]
     $argsCheck[>1;Usage: *play <song name>]
 $endIf`
@@ -29,7 +29,7 @@ $endIf`
       Lenght: **$songInfo[duration] Minuten**
       Publisher: **$songInfo[publisher]**]
       $footer[Bot made by: byCRXHIT & ItzN3on & ItzN3on]
-      $color[GREEN]
+      $color[BLUE]
       $thumbnail[$songInfo[thumbnail]]
 	    $argsCheck[>1;Usage: *play <song name>]
   $endIf`
