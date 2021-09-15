@@ -15,7 +15,7 @@ bot.musicEndCommand({
     code: `$title[Stopping Song & Leaving Channel]
     $description[No song in queue left.]
     $color[RED]
-    $setServerVar[playing;0]`
+    $setServerVar[isBeingPlayed;0]`
 })
 
 bot.musicStartCommand({
